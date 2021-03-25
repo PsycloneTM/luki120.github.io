@@ -1,0 +1,44 @@
+<package>
+	<id>me.luki.HeliosUI</id>
+	<name>HeliosUI</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Eye-pleasing UI theme ;)</shortDescription>
+	<descriptionlist>
+		<description>;)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>clockShort.png</image>
+			<description></description>
+			<image>clockMedium.jpg</image>
+			<description></description>
+			<image>clockLong.png</image>
+			<description></description>
+			<image>LSShort.png</image>
+			<description></description>
+			<image>LSMedium.png</image>
+			<description></description>
+			<image>LSLong.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Optimized LS countdown.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

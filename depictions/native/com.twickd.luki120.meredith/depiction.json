@@ -1,0 +1,103 @@
+{
+	{
+		"minVersion": "0.1",
+		"headerImage": "https://raw.githubusercontent.com/arya1106/repo/master/assets/nappytime14/banner.png",
+		"tintColor": "#0657bb",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "HeliosUI",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "Eye-pleasing UI theme ;)",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/WWRPLDW.jpg"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/QBjokTl.png"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/OTtGkzv.jpg"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/iLUsFij.jpg"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/DPvUIHU.png"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/NwCdQ7i.png"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/DnCSu8I.png"
+							}
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": ";)",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "1.0.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "03-25-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Free",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}

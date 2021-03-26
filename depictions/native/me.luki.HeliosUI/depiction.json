@@ -29,19 +29,19 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://imgur.com/gallery/6CzQoch"
+								"url": "https://i.imgur.com/5r4arYF.png"
 							},
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://imgur.com/gallery/a0YPJcs"
+								"url": "https://i.imgur.com/cIxVriR.png"
 							},
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://imgur.com/gallery/4DgaZE1"
+								"url": "https://i.imgur.com/LfiGkdm.png"
 							},
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://imgur.com/gallery/7iNZQpq"
+								"url": "https://i.imgur.com/mi4P5XV.png"
 							}
 						]
 					},
@@ -56,7 +56,7 @@
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "1.0.0",
+						"text": "0.0.1",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},

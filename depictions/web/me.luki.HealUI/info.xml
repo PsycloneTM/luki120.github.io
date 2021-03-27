@@ -1,6 +1,6 @@
 <package>
-	<id>me.luki.HeliosUI</id>
-	<name>HeliosUI</name>
+	<id>me.luki.HealUI</id>
+	<name>HealUI</name>
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
@@ -11,9 +11,9 @@
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Eye-pleasing UI theme ;)</shortDescription>
+	<shortDescription>;)</shortDescription>
 	<descriptionlist>
-		<description>;)</description>
+		<description>Eye-pleasing UI theme ;)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.0.2</version>
+		<change>Added support for BigSurCenter, BattRate, BattSafePro and Puck CC Toggles./<change>
 		<version>.0.0.1</version>
 		<change>Initial Beta Release</change>
 	</changes>

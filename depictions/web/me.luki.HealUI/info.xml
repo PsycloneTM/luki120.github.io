@@ -20,19 +20,6 @@
 			<description></description>
 			<image>LS.png</image>
 			</screenshot>
-			<screenshot>
-			<description></description>
-			<image>CC.png</image>
-			</screenshot>
-			<screenshot>
-			<description></description>
-			<image>Twitter.png</image>
-			</screenshot>
-			<screenshots>
-			<screenshot>
-			<description></description>
-			<image>Keyboard.png</image>
-			</screenshot>
 			</screenshots>
 	<changelog>
 		<change>Added support for BigSurCenter, BattRate, BattSafePro and Puck CC Toggles.</change>

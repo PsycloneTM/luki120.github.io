@@ -18,9 +18,15 @@
 	<screenshots>
 		<screenshot>
 			<description></description>
+			<image>CC.png</image>
+		</screenshot>
+	</screenshots>
+	<screenshots>
+		<screenshot>
+			<description></description>
 			<image>LS.png</image>
-			</screenshot>
-			</screenshots>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Added support for BigSurCenter, BattRate, BattSafePro and Puck CC Toggles.</change>
 	</changelog>

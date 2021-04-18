@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+	<version>0.0.3</version>
+		<change>Initial Instragram support./<change>
 		<version>0.0.2</version>
 		<change>Fixed BigSurCenter support, stopped procastinating and finished Twitter UI, added some more keyboard icons, including DockX icons./<change>
 		<version>0.0.2</version>

@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.HealUI</id>
 	<name>HealUI</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -28,7 +28,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added support for BigSurCenter, BattRate, BattSafePro and Puck CC Toggles.</change>
+		<change>Fixed BigSurCenter support, stopped procastinating and finished Twitter UI, added some more keyboard icons, including DockX icons.</change>
 	</changelog>
 	<links>
 		<link>

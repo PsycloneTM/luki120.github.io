@@ -20,7 +20,7 @@
 					},
 					{
 						"class": "DepictionSpacerView",
-						"spacing": 5
+						"spacing": 2
 					},
 					{
 						"itemSize": "{160, 275.41333333333336}",

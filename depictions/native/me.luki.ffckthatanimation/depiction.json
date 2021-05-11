@@ -42,7 +42,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Removes the CC labels and fade out animation when turning on/off a CC toggle.",
+						"markdown": "Removes the CC labels and fade out animation when turning on/off a CC toggle. \n* Pretty handcrafted icon by @BenOwl3.",
 						"useBottomMargin": false
 					},
 					{

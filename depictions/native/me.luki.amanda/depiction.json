@@ -42,7 +42,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Make badges purpleish when DND is enabled.  \n* Note: this was made mainly as a learning experience, if you find bugs I'll recommend either telling me or using DNDBadges by Ichitaso.",
+						"markdown": "Make badges purpleish when DND is enabled.  \n* Note: this was made mainly as a learning experience, if you find bugs I'll recommend either telling me or using DNDBadges by Ichitaso. \n* Pretty handcrafted icon by @BenOwl3.",
 						"useBottomMargin": false
 					},
 					{

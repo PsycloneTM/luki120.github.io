@@ -1,0 +1,96 @@
+{
+	
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#000000",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "OneSettingsUI",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/AVe5xqJ.png"
+							},
+
+							{
+								"accessibilityText": "Screenshot1",
+								"url": "https://i.imgur.com/M7SML1U.png"
+							},
+
+							{
+								"accessibilityText": "Screenshot1",
+								"url": "https://i.imgur.com/htcbt9x.png"
+							},
+
+
+							{
+								"accessibilityText": "Screenshot1",
+								"url": "https://i.imgur.com/i3fTZw5.png"
+							}
+
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "OneSettingsUI is a theme made as an extension to the OneSettings tweak, to recreate a slick clean look based on OneUI from Android..  \n* Original tweak made by @NightwindDev, theme designer @jam_minty.",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "1.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "05-18-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Nightwind & Janneske",
+						"title": "Developer & Designer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}	

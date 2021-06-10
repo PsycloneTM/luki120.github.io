@@ -2,7 +2,7 @@
 	
 		"minVersion": "0.1",
 		"headerImage": "",
-		"tintColor": "#000000",
+		"tintColor": "#8a78eb",
 		"tabs": [
 			{
 				"class": "DepictionStackView",
@@ -10,7 +10,7 @@
 					{
 						"useBoldText": true,
 						"class": "DepictionSubheaderView",
-						"title": "OneSettingsUI",
+						"title": "Amēlija",
 						"useBottomMargin": false
 					},
 					{
@@ -29,23 +29,11 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/AVe5xqJ.png"
+								"url": "https://i.imgur.com/LdaS9Y6.png"
 							},
-
 							{
-								"accessibilityText": "Screenshot1",
-								"url": "https://i.imgur.com/M7SML1U.png"
-							},
-
-							{
-								"accessibilityText": "Screenshot1",
-								"url": "https://i.imgur.com/htcbt9x.png"
-							},
-
-
-							{
-								"accessibilityText": "Screenshot1",
-								"url": "https://i.imgur.com/i3fTZw5.png"
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/fLHEcu9.png"
 							}
 
 						]
@@ -54,7 +42,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "OneSettingsUI is a theme made as an extension to the OneSettings tweak, to recreate a slick clean look based on OneUI from Android..  \n* Original tweak made by @NightwindDev, theme designer @jam_minty.",
+						"markdown": "Take full control of your wallpapers and blur them to your liking on the fly.  \n* Features 8 different styles: \n* Epic Blur. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System Thin. \n* System Ultra Thin. \n* System Chrome Material. \n* Pretty handcrafted icon and banner by @BenOwl3.",
 						"useBottomMargin": false
 					},
 					{
@@ -66,7 +54,7 @@
 						"class": "DepictionTableTextView"
 					},
 					{
-						"text": "05-18-2021",
+						"text": "06-10-2021",
 						"title": "Released",
 						"class": "DepictionTableTextView"
 					},
@@ -80,8 +68,8 @@
 						"spacing": 8
 					},
 					{
-						"text": "Nightwind & Janneske",
-						"title": "Developer & Designer",
+						"text": "Luki120",
+						"title": "Developer",
 						"class": "DepictionTableTextView"
 					},
 					{

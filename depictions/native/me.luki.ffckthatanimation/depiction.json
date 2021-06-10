@@ -2,7 +2,7 @@
 	
 		"minVersion": "0.1",
 		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTAGradient.png",
-		"tintColor": "#ed6074",
+		"tintColor": "#77353D",
 		"tabs": [
 			{
 				"class": "DepictionStackView",

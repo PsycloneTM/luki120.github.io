@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0</version>
-		<change>Initial Release</change>
+		<version>2.0</version>
+		<change>Refactoring with reliability improvements.</change>
 	</changes>
 </changelog>

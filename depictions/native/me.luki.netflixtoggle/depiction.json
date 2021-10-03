@@ -1,0 +1,68 @@
+{
+	
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#E50914",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "NetflixToggle",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "Launch Netflix from the CC.",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "0.9.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "10-03-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}	

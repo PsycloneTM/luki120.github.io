@@ -49,7 +49,7 @@
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "2.0",
+						"text": "0.9.0",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},

@@ -9,7 +9,7 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "FfckThatAnimation",
+					"title": "FuckThatAnimation",
 					"useBottomMargin": false
 				},
 				{
@@ -31,29 +31,28 @@
 							"url": "https://i.imgur.com/fnH7Itw.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/bgczNub.png"
 						}
-
 					]
 				},
 				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Removes the CC labels and fade out animation when turning on/off a CC toggle. \n* Pretty handcrafted icon by @BenOwl3.",
+					"markdown": "Removes the CC labels and fade out animation when toggling a CC toggle. \n* Handcrafted icon by @BenOwl3.",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "1.0",
+					"text": "0.9.0",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "05-08-2021",
+					"text": "5/8/21",
 					"title": "Released",
 					"class": "DepictionTableTextView"
 				},

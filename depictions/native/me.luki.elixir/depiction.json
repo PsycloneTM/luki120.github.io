@@ -31,21 +31,20 @@
 							"url": "https://i.imgur.com/OfWGamL.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/58umNxC.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot2",
 							"url": "https://i.imgur.com/kdjf4uj.png"
 						}
-
 					]
 				},
 				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Tweak count right on your settings app! Supports Orion, Shuffle & the app TweakSettings. \n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. \n* Pretty handcrafted icon by @jam_minty.",
+					"markdown": "Tweak count right on your settings app. Supports Orion, Shuffle & the app TweakSettings. \n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. \n* Handcrafted icon by @jam_minty.",
 					"useBottomMargin": false
 				},
 				{
@@ -57,8 +56,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "06-19-2021",
-					"title": "Released",
+					"text": "6/19/21",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{
